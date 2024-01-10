@@ -584,7 +584,7 @@ const GoveeDeviceLibrary = {
 		state: 1,
 		supportRazer: false,
 		supportFeast: false,
-		ledCount: 20
+		ledCount: 1
 	},
 	H6073: {
 		productName: "Smart RGB Floor Lamp",
