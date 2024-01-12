@@ -133,10 +133,6 @@ function GetDeviceRGB(){
 function SetLedCount(count){
 	ledCount = count;
 
-	if (count > 16) {
-		ledCount = 16;
-	}
-
 	CreateLedMap();
 	device.setSize([ledCount, 1]);
 	device.setControllableLeds(ledNames, ledPositions);
