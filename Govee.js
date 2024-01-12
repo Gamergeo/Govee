@@ -578,7 +578,7 @@ const GoveeDeviceLibrary = {
 		ledCount: 1
 	},
 	H6072: {
-		productName: "RGBICWW Floor Lamp",
+		productName: "RGBICWW Floor Lamp test",
 		imageUrl: "https://d1f2504ijhdyjw.cloudfront.net/deals-img/1edf77ca5bb565da3d220db6a2d175c2-pic_h6072.png",
 		sku: "H6072",
 		state: 1,
