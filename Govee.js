@@ -134,7 +134,7 @@ function SetLedCount(count){
 	ledCount = count;
 
 	if (count > 16) {
-		ledCount + 16;
+		ledCount = ledCount + 16;
 	}
 
 	CreateLedMap();
