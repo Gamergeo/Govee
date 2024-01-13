@@ -582,8 +582,8 @@ const GoveeDeviceLibrary = {
 		imageUrl: "https://d1f2504ijhdyjw.cloudfront.net/deals-img/1edf77ca5bb565da3d220db6a2d175c2-pic_h6072.png",
 		sku: "H6072",
 		state: 1,
-		supportRazer: true,
-		supportFeast: true,
+		supportRazer: false,
+		supportFeast: false,
 		supportDreamview: true,
 		hasVariableLedCount: true,
 		ledCount: 128
