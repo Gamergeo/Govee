@@ -583,7 +583,7 @@ const GoveeDeviceLibrary = {
 		sku: "H6072",
 		state: 1,
 		supportRazer: false,
-		supportFeast: true,
+		supportFeast: false,
 		supportDreamview: false,
 		hasVariableLedCount: true,
 		ledCount: 64
